@@ -1,0 +1,7 @@
+title: Forge — Legal
+description: Privacy Policy and Terms of Service for the Forge workout coach app.
+theme: minima
+permalink: /:title/
+exclude:
+  - README.md
+  - .gitignore
