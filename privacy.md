@@ -58,13 +58,13 @@ Each provider has its own privacy practices, which apply to data they receive.
 
 ## 5. Your choices and rights
 
-- **Access and export.** Most of your data lives on your device — you can review it at any time inside the App. To request an export of any data we hold on our servers, email **waleed@nxthumans.com**.
-- **Deletion.** You can delete your local data at any time by removing the App, which clears the on-device database. To delete account-linked data on our servers (auth records, subscription linkage), email **waleed@nxthumans.com** and we will process the request within 30 days.
+- **Access and export.** Most of your data lives on your device — you can review it at any time inside the App. To request an export of any data we hold on our servers, email **wk03965@gmail.com**.
+- **Deletion.** You can delete your local data at any time by removing the App, which clears the on-device database. To delete account-linked data on our servers (auth records, subscription linkage), email **wk03965@gmail.com** and we will process the request within 30 days.
 - **Subscription cancellation.** Manage or cancel your Forge Pro subscription in iOS **Settings → Apple ID → Subscriptions**. We cannot cancel Apple subscriptions on your behalf.
 
 ## 6. Children
 
-Forge is not directed at children under 13. We do not knowingly collect data from children under 13. If you believe a child has provided us data, contact **waleed@nxthumans.com** and we will delete it.
+Forge is not directed at children under 13. We do not knowingly collect data from children under 13. If you believe a child has provided us data, contact **wk03965@gmail.com** and we will delete it.
 
 ## 7. International data transfers
 
@@ -86,4 +86,4 @@ We may update this Privacy Policy. The "Last updated" date at the top will refle
 
 Questions about this policy or your data:
 
-**Email:** waleed@nxthumans.com
+**Email:** wk03965@gmail.com

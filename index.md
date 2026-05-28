@@ -9,4 +9,4 @@ permalink: /
 - [Privacy Policy](/privacy/)
 - [Terms of Service](/terms/)
 
-For questions, contact **waleed@nxthumans.com**.
+For questions, contact **wk03965@gmail.com**.

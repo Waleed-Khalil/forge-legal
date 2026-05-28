@@ -16,7 +16,7 @@ You must be at least 13 years old (or the minimum age in your country) to use Fo
 
 ## 2. Your account
 
-You are responsible for activity that occurs under your account. Keep your sign-in credentials secure. Notify us at **waleed@nxthumans.com** if you believe your account has been compromised.
+You are responsible for activity that occurs under your account. Keep your sign-in credentials secure. Notify us at **wk03965@gmail.com** if you believe your account has been compromised.
 
 ## 3. Subscription terms (Forge Pro)
 
@@ -72,4 +72,4 @@ These Terms are governed by the laws of the United States and the State of [your
 
 ## 13. Contact
 
-**Email:** waleed@nxthumans.com
+**Email:** wk03965@gmail.com
